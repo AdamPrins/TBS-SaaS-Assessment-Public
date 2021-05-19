@@ -17,7 +17,7 @@
       "prefix": "S_DB_I"
     }
   ],
-  "cells": [
+  "DatabaseLogicalConditions": [
     {
       "name": "AC1",
       "decisionAids": []
@@ -1889,6 +1889,216 @@
     },
     {
       "name": "SI16",
+      "decisionAids": []
+    }
+  ],
+  "CSP": [
+    {
+      "name": "0002",
+      "decisionAids": []
+    },
+    {
+      "name": "0003",
+      "decisionAids": []
+    },{
+      "name": "0003",
+      "decisionAids": []
+    },
+    {
+      "name": "0004",
+      "decisionAids": []
+    },
+    {
+      "name": "0005",
+      "decisionAids": []
+    },
+    {
+      "name": "0006",
+      "decisionAids": []
+    },
+    {
+      "name": "0007",
+      "decisionAids": []
+    },
+    {
+      "name": "0008",
+      "decisionAids": []
+    },
+    {
+      "name": "0009",
+      "decisionAids": []
+    },
+    {
+      "name": "0010",
+      "decisionAids": []
+    },
+    {
+      "name": "0011",
+      "decisionAids": []
+    },
+    {
+      "name": "0012",
+      "decisionAids": []
+    },
+    {
+      "name": "0013",
+      "decisionAids": []
+    },
+    {
+      "name": "0014",
+      "decisionAids": []
+    },
+    {
+      "name": "0015",
+      "decisionAids": []
+    },
+    {
+      "name": "0016",
+      "decisionAids": []
+    },
+    {
+      "name": "0017",
+      "decisionAids": []
+    },
+    {
+      "name": "0018",
+      "decisionAids": []
+    },
+    {
+      "name": "0019",
+      "decisionAids": []
+    },
+    {
+      "name": "0020",
+      "decisionAids": []
+    },
+    {
+      "name": "0021",
+      "decisionAids": []
+    },
+    {
+      "name": "0022",
+      "decisionAids": []
+    },
+    {
+      "name": "0023",
+      "decisionAids": []
+    },
+    {
+      "name": "0024",
+      "decisionAids": []
+    },
+    {
+      "name": "0025",
+      "decisionAids": []
+    },
+    {
+      "name": "0026",
+      "decisionAids": []
+    },
+    {
+      "name": "0027",
+      "decisionAids": []
+    },
+    {
+      "name": "0028",
+      "decisionAids": []
+    },
+    {
+      "name": "0029",
+      "decisionAids": []
+    },
+    {
+      "name": "0030",
+      "decisionAids": []
+    },
+    {
+      "name": "0031",
+      "decisionAids": []
+    },
+    {
+      "name": "0032",
+      "decisionAids": [
+        {
+          "function": "decisionAid_GCHTTPS_Rules",
+          "args": {}
+        }
+      ]
+    },
+    {
+      "name": "0036",
+      "decisionAids": []
+    },
+    {
+      "name": "0037",
+      "decisionAids": []
+    },
+    {
+      "name": "0038",
+      "decisionAids": []
+    },
+    {
+      "name": "0039",
+      "decisionAids": []
+    },
+    {
+      "name": "0040",
+      "decisionAids": []
+    },
+    {
+      "name": "0041",
+      "decisionAids": []
+    },
+    {
+      "name": "0042",
+      "decisionAids": []
+    },
+    {
+      "name": "0043",
+      "decisionAids": []
+    },
+    {
+      "name": "0044",
+      "decisionAids": []
+    },
+    {
+      "name": "0045",
+      "decisionAids": []
+    },
+    {
+      "name": "0046",
+      "decisionAids": []
+    },
+    {
+      "name": "0047",
+      "decisionAids": []
+    },
+    {
+      "name": "0048",
+      "decisionAids": []
+    },
+    {
+      "name": "0049",
+      "decisionAids": []
+    },
+    {
+      "name": "0050",
+      "decisionAids": []
+    },
+    {
+      "name": "0051",
+      "decisionAids": []
+    },
+    {
+      "name": "0052",
+      "decisionAids": []
+    },
+    {
+      "name": "0053",
+      "decisionAids": []
+    },
+    {
+      "name": "0054",
       "decisionAids": []
     }
   ]
